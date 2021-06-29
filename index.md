@@ -4,14 +4,14 @@
 
 ### Originale Audiodaten zur Referenz (p228)
 <div class="overflow-hidden">
-    <audio controls><source src="./data/audio/orig/p228/p228_001_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./data/audio/orig/p228/p228_002_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
-    <audio controls><source src="./data/audio/orig/p228/p228_003_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+    <audio controls><source src="./data/audio/orig/p228/p228_001.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+    <audio controls><source src="./data/audio/orig/p228/p228_002.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
+    <audio controls><source src="./data/audio/orig/p228/p228_003n.wav" type="audio/wav">Your browser does not support the audio element.</audio>
 </div>
 
 ### generierte Daten
 
-<table style="width:100%" class="main-table">
+<table style="width:100%" class="main-table, overflow-hidden">
   <tr>
     <th>Text</th>
     <th>Sys_M0</th> 
