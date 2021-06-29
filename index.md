@@ -7,7 +7,7 @@
 ### generierte Daten
 Text | Sys_M0 | Sys_M1 | Sys_M2 | Sys_P0 | Sys_P1 | Sys_P2
 --- | --- | --- | --- | --- | --- | ---
- | !audio[ title ](https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav ){ size=10 duration=10 cycle=forever } | [Link](https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav)| ![https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav](the-sound-file.m4a?controlsList=nodownload-nofullscreen-noremoteplayback)
+ | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio>
 1 | 2 | 3
 
 <audio src="https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" class="my-audio-css" data-collapse>
@@ -20,10 +20,7 @@ You can <a href="https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/d
   <source src="https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio> 
- <audio controls>
-  <source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> 
+ 
 
 ```markdown
 Syntax highlighted code block
