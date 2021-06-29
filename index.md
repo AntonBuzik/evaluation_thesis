@@ -24,7 +24,6 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
-    </td>
   </tr>
   <tr>
     <td></td>
@@ -34,7 +33,6 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_018_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_018_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_018_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
-    </td>
   </tr>
   <tr>
     <td></td>
