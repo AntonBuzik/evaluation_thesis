@@ -2,11 +2,11 @@
 
 ## Konvertierung 1 - p268 weiblich nach p228 weiblich
 
-### Originale Audiodaten zur Referenz
+### Originale Audiodaten zur Referenz (p228)
 
 ### generierte Daten
 
-<table style="width:100%">
+<table style="width:100%" class="main-table">
   <tr>
     <th>Text</th>
     <th>Sys_M0</th> 
