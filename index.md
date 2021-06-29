@@ -3,7 +3,9 @@
 ## Konvertierung 1 - p268 weiblich nach p228 weiblich
 
 ### Originale Audiodaten zur Referenz (p228)
-
+    <audio controls><source src="./data/audio/orig/p228/p228_001_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
+    <audio controls><source src="./data/audio/orig/p228/p228_002_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
+    <audio controls><source src="./data/audio/orig/p228/p228_003_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
 ### generierte Daten
 
 <table style="width:100%" class="main-table">
