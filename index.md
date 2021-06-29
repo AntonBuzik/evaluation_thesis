@@ -11,7 +11,7 @@
 
 ### generierte Daten
 
-<table style="width:100%" class="main-table, overflow-hidden">
+<table style="width:100%" class="main-table, overflow-visible">
   <tr>
     <th>Text</th>
     <th>Sys_M0</th> 
