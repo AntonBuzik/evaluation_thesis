@@ -19,7 +19,11 @@
   <tr>
     <td></td>
     <td><audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
-    <td>50</td>
+    <td><audio controls><source src="./data/audio/sysm1/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    </td>
   </tr>
   <tr>
     <td></td>
@@ -32,24 +36,6 @@
     <td>80</td>
   </tr>
 </table>
-
-
-Text | Sys_M0 | Sys_M1 | Sys_M2 | Sys_P0 | Sys_P1 | Sys_P2
---- | --- | --- | --- | --- | --- | ---
- | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-1 | 2 | 3
-
-<audio src="https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" class="my-audio-css" data-collapse>
-Your browser does not support playing HTML5 audio.
-You can <a href="https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" download>download the file</a> instead.
-</audio>
-
->BLOB
- <audio controls autoplay muted>
-  <source src="https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> 
- 
 
 ```markdown
 Syntax highlighted code block
