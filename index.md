@@ -113,7 +113,7 @@
   </tr>
 </table>
 
-## Konvertierung 2 - p228 weiblich nach p258 määnlich
+## Konvertierung 2 - p228 weiblich nach p258 männlich
 
 ### Originale Audiodaten zur Referenz (p258)
 <div class="overflow-hidden">
@@ -236,6 +236,107 @@
 
 ### generierte Daten
 
+<table style="width:100%" class="main-table, overflow-visible">
+  <tr>
+    <th>Text</th>
+    <th>Sys_M0</th> 
+    <th>Sys_M1</th>
+    <th>Sys_M2</th>
+    <th>Sys_P0</th>
+    <th>Sys_P1</th>
+    <th>Sys_P2</th>
+  </tr>
+  <tr>
+    <td>these take the shape of a long round arch with its path high above and its two ends apparently beyond the horizon</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_008_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_008_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_008_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_008_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_008_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_008_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>labor's scottish general secretary alex rowley was delighted yesterday</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_141_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_141_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_141_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_141_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_141_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_141_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>however it is understood that offers a further payment are unlikely</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_388_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_388_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_388_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_388_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_388_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_388_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>they did not replace it with a conviction for culpable homicide</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_033_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_033_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_033_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_033_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_033_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_033_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>violence and threatening behaviour has no place in a school</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_305_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_305_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_305_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_305_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_305_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_305_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>our dispute is with the company not the travelling public</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_272_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_272_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_272_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_272_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_272_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_272_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>the city council is a major property owner in the area</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_082_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_082_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_082_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_082_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_082_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_082_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>after that time the market itself will set the prices</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_204_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_204_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_204_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_204_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_204_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_204_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>they say that vital evidence was not heard in court</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_156_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_156_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_156_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_156_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_156_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_156_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+  <tr>
+    <td>every one is in favor of the need for welfare reform in general</td>
+    <td><audio controls><source src="./data/audio/sysm0/p258_p232/p258_p232_133_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm1/p258_p232/p258_p232_133_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysm2/p258_p232/p258_p232_133_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp0/p258_p232/p258_p232_133_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp1/p258_p232/p258_p232_133_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysp2/p258_p232/p258_p232_133_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+  </tr>
+</table>
 
 ## Konvertierung 4 - p232 männlich nach p268 männlich
 
