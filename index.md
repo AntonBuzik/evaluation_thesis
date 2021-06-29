@@ -6,7 +6,7 @@
 <div class="overflow-hidden">
     <audio controls><source src="./data/audio/orig/p228/p228_001.wav" type="audio/wav">Your browser does not support the audio element.</audio>
     <audio controls><source src="./data/audio/orig/p228/p228_002.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
-    <audio controls><source src="./data/audio/orig/p228/p228_003n.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+    <audio controls><source src="./data/audio/orig/p228/p228_003.wav" type="audio/wav">Your browser does not support the audio element.</audio>
 </div>
 
 ### generierte Daten
@@ -113,26 +113,36 @@
   </tr>
 </table>
 
-```markdown
-Syntax highlighted code block
+## Konvertierung 2 - p228 weiblich nach p258 määnlich
 
-# Header 1
-## Header 2
-### Header 3
+### Originale Audiodaten zur Referenz (p258)
+<div class="overflow-hidden">
+    <audio controls><source src="./data/audio/orig/p258/p258_001.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+    <audio controls><source src="./data/audio/orig/p258/p258_002.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
+    <audio controls><source src="./data/audio/orig/p258/p258_003.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+</div>
 
-- Bulleted
-- List
+### generierte Daten
 
-1. Numbered
-2. List
+## Konvertierung 3 - p258 männlich nach p232 männlich
 
-**Bold** and _Italic_ and `Code` text
+### Originale Audiodaten zur Referenz (p232)
+<div class="overflow-hidden">
+    <audio controls><source src="./data/audio/orig/p232/p232_001.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+    <audio controls><source src="./data/audio/orig/p232/p232_002.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
+    <audio controls><source src="./data/audio/orig/p232/p232_003.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+</div>
 
-[Link](url) and ![Image](src)
-```
+### generierte Daten
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Konvertierung 4 - p232 männlich nach p268 männlich
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AntonBuzik/evaluation_thesis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Originale Audiodaten zur Referenz (p268)
+<div class="overflow-hidden">
+    <audio controls><source src="./data/audio/orig/p268/p268_001.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+    <audio controls><source src="./data/audio/orig/p268/p268_002.wav" type="audio/wav">Your browser does not support the audio element.</audio> 
+    <audio controls><source src="./data/audio/orig/p268/p268_003.wav" type="audio/wav">Your browser does not support the audio element.</audio>
+</div>
+
+### generierte Daten
