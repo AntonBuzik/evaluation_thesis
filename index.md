@@ -5,6 +5,35 @@
 ### Originale Audiodaten zur Referenz
 
 ### generierte Daten
+
+<table style="width:100%">
+  <tr>
+    <th>Text</th>
+    <th>Sys_M0</th> 
+    <th>Sys_M1</th>
+    <th>Sys_M2</th>
+    <th>Sys_P0</th>
+    <th>Sys_P1</th>
+    <th>Sys_P2</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td><audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+
 Text | Sys_M0 | Sys_M1 | Sys_M2 | Sys_P0 | Sys_P1 | Sys_P2
 --- | --- | --- | --- | --- | --- | ---
  | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/audio/sysm0/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio>
