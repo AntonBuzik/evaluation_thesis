@@ -2,12 +2,14 @@
 
 ## Konvertierung 1 - p268 weiblich nach p228 weiblich
 
-Sys_M0 | Sys_M1 | Sys_M2 | Sys_P0 | Sys_P1 | Sys_P2
+### Originale Audiodaten zur Referenz
+
+### generierte Daten
+Text | Sys_M0 | Sys_M1 | Sys_M2 | Sys_P0 | Sys_P1 | Sys_P2
 --- | --- | --- | --- | --- | --- 
-*Still* | `renders` | **nicely**
+*Still* | https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav | **nicely**
 1 | 2 | 3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
