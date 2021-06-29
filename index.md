@@ -7,7 +7,7 @@
 ### generierte Daten
 Text | Sys_M0 | Sys_M1 | Sys_M2 | Sys_P0 | Sys_P1 | Sys_P2
 --- | --- | --- | --- | --- | --- 
-Still | https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav | nicely
+Still | https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav | [Link](https://github.com/AntonBuzik/evaluation_thesis/blob/gh-pages/data/audio/sysm0/p268_p228/p268_p228_005_gen.wav)
 1 | 2 | 3
 
 
