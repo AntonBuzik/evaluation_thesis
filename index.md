@@ -11,7 +11,7 @@
 
 ### generierte Daten
 
-<table style="width:100%" class="main-table, overflow-visible">
+<table style="width:100%">
   <tr>
     <th>Text</th>
     <th>Sys_M0</th> 
@@ -123,7 +123,7 @@
 </div>
 
 ### generierte Daten
-<table style="width:100%" class="main-table, overflow-visible">
+<table style="width:100%">
   <tr>
     <th>Text</th>
     <th>Sys_M0</th> 
@@ -236,7 +236,7 @@
 
 ### generierte Daten
 
-<table style="width:100%" class="main-table, overflow-visible">
+<table style="width:100%">
   <tr>
     <th>Text</th>
     <th>Sys_M0</th> 
@@ -349,7 +349,7 @@
 
 ### generierte Daten
 
-<table style="width:100%" class="main-table, overflow-visible">
+<table style="width:100%">
   <tr>
     <th>Text</th>
     <th>Sys_M0</th> 
