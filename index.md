@@ -27,13 +27,13 @@
   </tr>
   <tr>
     <td></td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
