@@ -32,7 +32,8 @@
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
 
-    <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_005_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain</td>
@@ -42,6 +43,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_018_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_018_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_018_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_018_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_018_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>david murray the rangers chairman also welcomed the scheme</td>
@@ -51,6 +55,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_377_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_377_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_377_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_377_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_377_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>it particularly increases under age drinking he claimed</td>
@@ -60,6 +67,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_328_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_328_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_328_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_328_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_328_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>their prescription is largely about changing attitudes</td>
@@ -69,6 +79,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_220_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_220_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_220_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_220_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_220_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>friend said he had suffered a black out two weeks ago</td>
@@ -78,6 +91,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_349_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_349_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_349_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_349_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_349_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>there is no change in principle from the white paper</td>
@@ -87,6 +103,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_402_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_402_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_402_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_402_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_402_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>life has changed for rugby plays in just three years</td>
@@ -96,6 +115,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_317_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_317_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_317_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_317_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_317_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>the rise in retail sales was the first since august</td>
@@ -105,6 +127,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_140_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_140_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_140_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_140_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_140_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
   <tr>
     <td>it was only later that the condition was diagnosed</td>
@@ -114,6 +139,9 @@
     <td><audio controls><source src="./data/audio/sysp0/p268_p228/p268_p228_301_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp1/p268_p228/p268_p228_301_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
     <td><audio controls><source src="./data/audio/sysp2/p268_p228/p268_p228_301_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+
+    <td><audio controls><source src="./data/audio/sysbw_tts_w/p228_301_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
+    <td><audio controls><source src="./data/audio/sysbw_tts_pw1/p228_301_gen.wav" type="audio/wav">Your browser does not support the audio element.</audio> </td>
   </tr>
 </table>
 
