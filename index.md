@@ -14,7 +14,7 @@
   <tr>
     <th>Text</th>
     <th>Referenzsystem</th> 
-    <th>verbessertes System/th>
+    <th>verbessertes System</th>
   </tr>
   <tr>
     <td>she can scoop these things into three red bags and we will go meet her wednesday at the train station</td>
@@ -71,7 +71,7 @@
   <tr>
     <th>Text</th>
     <th>Referenzsystem</th> 
-    <th>verbessertes System/th>
+    <th>verbessertes System</th>
   </tr>
   <tr>
     <td>if the red of the second bough falls upon the green of the first the result is to give a bow with an abnormally wide yellow band since red and green light when mixed form yellow</td>
@@ -129,7 +129,7 @@
   <tr>
     <th>Text</th>
     <th>Referenzsystem</th> 
-    <th>verbessertes System/th>
+    <th>verbessertes System</th>
   </tr>
   <tr>
     <td>these take the shape of a long round arch with its path high above and its two ends apparently beyond the horizon</td>
@@ -187,7 +187,7 @@
   <tr>
     <th>Text</th>
     <th>Referenzsystem</th> 
-    <th>verbessertes System/th>
+    <th>verbessertes System</th>
   </tr>
   <tr>
     <td>if the red of the second bow falls upon the green of the first the result is to give a bow with an abnormally wide yellow band since red and green light when mixed form yellow</td>
