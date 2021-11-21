@@ -10,7 +10,7 @@
 
 ### generierte Daten
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Referenzsystem</th> 
     <th>verbessertes System</th>
@@ -50,7 +50,7 @@
 </table>
 
 ### N-Shot
-<table style="width:100%">
+<table>
   <tr>
     <th>10 - 41sek</th>
     <th>25 - 1min40sek</th> 
@@ -105,7 +105,7 @@
 </div>
 
 ### generierte Daten
-<table style="width:100%">
+<table>
   <tr>
     <th>Referenzsystem</th> 
     <th>verbessertes System</th>
@@ -145,7 +145,7 @@
 </table>
 
 ### N-Shot
-<table style="width:100%">
+<table>
   <tr>
     <th>10 - 41sek</th>
     <th>25 - 1min40sek</th> 
@@ -201,7 +201,7 @@
 
 ### generierte Daten
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Referenzsystem</th> 
     <th>verbessertes System</th>
@@ -241,7 +241,7 @@
 </table>
 
 ### N-Shot
-<table style="width:100%">
+<table>
   <tr>
     <th>10 - 41sek</th>
     <th>25 - 1min40sek</th> 
@@ -297,7 +297,7 @@
 
 ### generierte Daten
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Referenzsystem</th> 
     <th>verbessertes System</th>
