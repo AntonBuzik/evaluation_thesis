@@ -337,7 +337,7 @@
 </table>
 
 ### N-Shot
-<table style="width:100%">
+<table>
   <tr>
     <th>10 - 41sek</th>
     <th>25 - 1min40sek</th> 
