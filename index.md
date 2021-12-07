@@ -1,12 +1,79 @@
 # VC Ergebnisse
-## Sprecher p229
-### Originale Audiodaten zur Referenz vom Sprecher p229
-<div class="overflow-hidden">
-    <audio controls><source src="./kolloquium/orig_ref/p229_136.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p229_178.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p229_298.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p229_365.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-</div>
+
+## Originale Audiodaten zur Referenz
+
+| p229 | p240  | p226  | p273  |
+|---|---|---|---|
+| <audio controls><source src="./kolloquium/orig_ref/p229_136.wav" type="audio/wav">Your browser does not support the audio element.</audio>  | <audio controls><source src="./kolloquium/orig_ref/p240_102.wav" type="audio/wav">Your browser does not support the audio element.</audio>  |   |   |
+| <audio controls><source src="./kolloquium/orig_ref/p229_178.wav" type="audio/wav">Your browser does not support the audio element.</audio>  |   |   |   |
+| <audio controls><source src="./kolloquium/orig_ref/p229_298.wav" type="audio/wav">Your browser does not support the audio element.</audio>  |   |   |   |
+| <audio controls><source src="./kolloquium/orig_ref/p229_365.wav" type="audio/wav">Your browser does not support the audio element.</audio>   ||||
+
+
+
+<table>
+  <tr>
+    <th>p229</th> 
+    <th>p240</th>
+    <th>p226</th> 
+    <th>p273</th>
+  </tr>
+  <tr>
+    <td><audio controls><source src="./kolloquium/orig_ref/p229_136.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p240_102.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td> <audio controls><source src="./kolloquium/orig_ref/p226_042.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p273_058.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+  </tr>
+  <tr>
+    <td><audio controls><source src="./kolloquium/orig_ref/p229_178.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p240_104.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td> <audio controls><source src="./kolloquium/orig_ref/p226_138.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p273_158.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+  </tr>
+  <tr>
+    <td><audio controls><source src="./kolloquium/orig_ref/p229_298.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p240_140.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p226_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p273_173.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+  </tr>
+  <tr>
+    <td><audio controls><source src="./kolloquium/orig_ref/p229_365.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p240_243.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td> <audio controls><source src="./kolloquium/orig_ref/p226_276.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+    <td><audio controls><source src="./kolloquium/orig_ref/p273_390.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
+  </tr>
+</table>
+
+## generierte Daten
+     
+<table>
+      <tr>
+        <th>Original Aufnahme</th> 
+        <th>Referenzsystem</th> 
+        <th>verbessertes System</th>
+        <th>N-shot 10 - 41sek</th>
+        <th>N-shot 25 - 1min40sek</th> 
+        <th>N-shot 50 - 2min28sek</th>
+        <th>N-shot 100 - 4min9sek</th>
+        <th>N-shot 150 - 5min57sek</th>
+      </tr>
+    <tr>
+        <th><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th> 
+        <th><audio controls><source src="./kolloquium/sysp0/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th> 
+        <th>verbessertes System</th>
+        <th>N-shot 10 - 41sek</th>
+        <th>N-shot 25 - 1min40sek</th> 
+        <th>N-shot 50 - 2min28sek</th>
+        <th>N-shot 100 - 4min9sek</th>
+        <th>N-shot 150 - 5min57sek</th>
+    </tr>
+</table> 
+
+     
+     
+
+
+
 
 ### generierte Daten
 
@@ -96,14 +163,6 @@
 </table>
 
 ## Sprecher p240
-### Originale Audiodaten zur Referenz vom Sprecher p240
-<div class="overflow-hidden">
-    <audio controls><source src="./kolloquium/orig_ref/p240_102.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p240_104.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p240_140.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p240_243.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-</div>
-
 ### generierte Daten
 <table>
   <tr>
@@ -191,13 +250,7 @@
 </table>
 
 ## Sprecher p226
-### Originale Audiodaten zur Referenz vom Sprecher p226
-<div class="overflow-hidden">
-    <audio controls><source src="./kolloquium/orig_ref/p226_042.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p226_138.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p226_139.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p226_276.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-</div>
+
 
 ### generierte Daten
 
@@ -287,13 +340,7 @@
 </table>
 
 ## Sprecher p273
-### Originale Audiodaten zur Referenz vom Sprecher p273
-<div class="overflow-hidden">
-    <audio controls><source src="./kolloquium/orig_ref/p273_058.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p273_158.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p273_173.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-    <audio controls><source src="./kolloquium/orig_ref/p273_390.wav" type="audio/wav">Your browser does not support the audio element.</audio>
-</div>
+
 
 ### generierte Daten
 
