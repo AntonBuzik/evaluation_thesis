@@ -2,15 +2,6 @@
 
 ## Originale Audiodaten zur Referenz
 
-| p229 | p240  | p226  | p273  |
-|---|---|---|---|
-| <audio controls><source src="./kolloquium/orig_ref/p229_136.wav" type="audio/wav">Your browser does not support the audio element.</audio>  | <audio controls><source src="./kolloquium/orig_ref/p240_102.wav" type="audio/wav">Your browser does not support the audio element.</audio>  |   |   |
-| <audio controls><source src="./kolloquium/orig_ref/p229_178.wav" type="audio/wav">Your browser does not support the audio element.</audio>  |   |   |   |
-| <audio controls><source src="./kolloquium/orig_ref/p229_298.wav" type="audio/wav">Your browser does not support the audio element.</audio>  |   |   |   |
-| <audio controls><source src="./kolloquium/orig_ref/p229_365.wav" type="audio/wav">Your browser does not support the audio element.</audio>   ||||
-
-
-
 <table>
   <tr>
     <th>p229</th> 
@@ -45,12 +36,45 @@
 </table>
 
 ## generierte Daten
-     
+
+<table style="width: 100%; margin-top: 10px; font-size: 0.8em;" border="1px">
+    <tr align="center" >
+        <th style="padding:2.5px; width: 10%;" rowspan="2">Originalaufnahme</th>
+        <th style="padding:2.5px;" colspan="2">p229</th>
+        <th style="padding:2.5px;" colspan="2">p240</th>
+        <th style="padding:2.5px;" colspan="2">p226</th>
+        <th style="padding:2.5px;" colspan="2">p273</th>
+    </tr>
+    <tr>
+        <th>Referenzsystem</th>
+        <th>verbessertes System</th>
+        <th>Referenzsystem</th>
+        <th>verbessertes System</th>
+        <th>Referenzsystem</th>
+        <th>verbessertes System</th>
+        <th>Referenzsystem</th>
+        <th>verbessertes System</th>
+    </tr>
+    <tr>
+        <th><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th> 
+        <th><audio controls><source src="./kolloquium/sysp0/p229_228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <th><audio controls><source src="./kolloquium/sysbw&bm/bw/p229_228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <th><audio controls><source src="./kolloquium/sysp0/p240_228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <th><audio controls><source src="./kolloquium/sysbw&bm/bw/p240_228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <th><audio controls><source src="./kolloquium/sysp0/p226_228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <th><audio controls><source src="./kolloquium/sysbw&bm/bm/p226_228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <th><audio controls><source src="./kolloquium/sysp0/p273_228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <th><audio controls><source src="./kolloquium/sysbw&bm/bm/p273_228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+    </tr>
+</table>
+
+
+## N-Shot
+
+
 <table>
       <tr>
-        <th>Original Aufnahme</th> 
-        <th>Referenzsystem</th> 
-        <th>verbessertes System</th>
+        <th>Original Aufnahme</th>
         <th>N-shot 10 - 41sek</th>
         <th>N-shot 25 - 1min40sek</th> 
         <th>N-shot 50 - 2min28sek</th>
@@ -58,9 +82,7 @@
         <th>N-shot 150 - 5min57sek</th>
       </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th> 
-        <th><audio controls><source src="./kolloquium/sysp0/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th> 
-        <th>verbessertes System</th>
+        <th><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
         <th>N-shot 10 - 41sek</th>
         <th>N-shot 25 - 1min40sek</th> 
         <th>N-shot 50 - 2min28sek</th>
