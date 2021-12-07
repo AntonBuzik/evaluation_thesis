@@ -82,7 +82,7 @@
         <th>N-shot 150 - 5min57sek</th>
       </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -90,7 +90,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_023.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_023.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -98,7 +98,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_032.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_032.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -106,7 +106,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_044.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_044.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -114,7 +114,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_349.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_349.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -122,7 +122,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_006.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_006.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -130,7 +130,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_085.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_085.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -138,7 +138,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_087.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_087.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -146,7 +146,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -154,7 +154,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p229_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_156.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_156.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p229_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p229_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p229_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -246,7 +246,7 @@
         <th>N-shot 150 - 5min57sek</th>
       </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -254,7 +254,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_023.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_023.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -262,7 +262,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_032.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_032.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -270,7 +270,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_044.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_044.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -278,7 +278,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_349.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_349.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -286,7 +286,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_006.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_006.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -294,7 +294,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_085.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_085.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -302,7 +302,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_087.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_087.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -310,7 +310,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -318,7 +318,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p240_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_156.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_156.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p240_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p240_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p240_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -409,7 +409,7 @@
         <th>N-shot 150 - 5min57sek</th>
       </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -417,7 +417,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_023.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_023.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -425,7 +425,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_032.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_032.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -433,7 +433,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_044.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_044.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -441,7 +441,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_349.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_349.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -449,7 +449,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_006.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_006.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -457,7 +457,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_085.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_085.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -465,7 +465,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_087.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_087.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -473,7 +473,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -481,7 +481,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p226_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_156.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_156.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p226_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p226_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p226_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -573,7 +573,7 @@
         <th>N-shot 150 - 5min57sek</th>
       </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_007.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -581,7 +581,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_228_007_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_023.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_023.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -589,7 +589,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_228_023_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_032.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_032.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -597,7 +597,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_228_032_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_044.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_044.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -605,7 +605,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_228_044_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p228_349.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p228_349.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -613,7 +613,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_228_349_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_006.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_006.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -621,7 +621,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_231_006_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_085.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_085.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -629,7 +629,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_231_085_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_087.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_087.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -637,7 +637,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_231_087_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_139.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
@@ -645,7 +645,7 @@
         <td><audio controls><source src="./kolloquium/n-shot/150/p273_231_139_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
     </tr>
     <tr>
-        <th><audio controls><source src="./kolloquium/original_files/p231_156.wav" type="audio/wav">Your browser does not support the audio element.</audio></th>
+        <td><audio controls><source src="./kolloquium/original_files/p231_156.wav" type="audio/wav">Your browser does not support the audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/10/p273_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/25/p273_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
         <td><audio controls><source src="./kolloquium/n-shot/50/p273_231_156_gen.wav" type="audio/wav">Your browser does not support tde audio element.</audio></td>
